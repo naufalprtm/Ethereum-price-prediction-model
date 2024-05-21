@@ -40,7 +40,7 @@ Contributions are welcome! Please fork this repository and submit a pull request
 Thanks to the open-source community and various online resources for providing valuable information and tools used in this project.
 
 ## Contact
-For any questions or issues, please open an issue in this repository or contact me directly at zixine.zh@gmail.com
+For any questions or issues, please open an issue in this repository or contact me directly at zixine.zx@gmail.com
 
 
 Feel free to customize the sections, especially the repository URL and contact information, as per your requirements.
